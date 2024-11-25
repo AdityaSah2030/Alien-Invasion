@@ -62,6 +62,7 @@ Welcome to **Alien Invasion**! This game challenges players to defend their spac
 ---
 
 ## ⚙️ Installation and Setup  
+
 ### Prerequisites  
 - Python 3.x installed on your machine.  
 - Install Pygame by running:  
